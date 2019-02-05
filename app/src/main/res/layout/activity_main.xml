@@ -32,8 +32,8 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
-            android:layout_height="459dp"
-            android:paddingTop="100sp"
+            android:layout_height="260dp"
+            android:paddingTop="40sp"
             android:paddingBottom="40sp"
             app:srcCompat="@drawable/foto" />
 
